@@ -13,7 +13,7 @@ export default ( Genie ) ->
 
   Genie.on "watch", M.start [
     W.glob glob: "{src,test}/**/*"
-    idle -> 
+    idle ->
       try
         await Genie.run "build"
       catch error
