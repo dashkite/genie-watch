@@ -42,6 +42,6 @@
   },
   "dependencies": {
     "@dashkite/masonry": "0.14.0",
-    "@dashkite/masonry-watch": "link:../masonry-watch"
+    "@dashkite/masonry-watch": "0.2.0"
   }
 }
