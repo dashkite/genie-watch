@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/genie-watch",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Watch source files and trigger Genie events",
   "keywords": [],
   "homepage": "https://github.com/dashkite/genie-watch#readme",
